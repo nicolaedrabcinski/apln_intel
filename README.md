@@ -1,1 +1,1 @@
-# SD-241M::APLN::Intel Dataset Image Classification Project
+# Intel Dataset Image Classification Project
